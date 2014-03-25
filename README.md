@@ -1,4 +1,4 @@
 PythonDabbling
 ==============
 
-Personal dabbling in Python!
+Personal dabbling in Python and PyLab!
